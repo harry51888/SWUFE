@@ -1,0 +1,10 @@
+/data/
+/static/
+/.idea/
+/.vscode/
+__pycache__/
+db.sqlite3
+.coverage
+.env
+/upload/
+/venv/
